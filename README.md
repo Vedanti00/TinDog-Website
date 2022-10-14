@@ -1,2 +1,2 @@
-#TinDog Starting Files
-##A Responsive Website.
+# TinDog 
+## A Responsive Website.
